@@ -1,1 +1,1 @@
-# dbt_demo
+# AdventureWorks DBT model
